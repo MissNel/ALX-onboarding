@@ -1,3 +1,5 @@
+mkdir 0x00-map_your_mind
+
 0_sum_squares. Png
 This program calculates the Lowest Common multiple 
 for excessively long input values
