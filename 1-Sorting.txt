@@ -1,0 +1,12 @@
+Reads in three and writes them all in sorted order.
+
+the reason for the code is so that the user can find out which integrater is bigger and put the in numerical order.
+
+call the 3 variables x,y, and z
+
+if(x>y)
+swop (x,y)
+if(y>z)
+swop (y,z)
+if (x>z)
+swop(x,y)
